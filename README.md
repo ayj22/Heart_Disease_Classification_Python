@@ -62,5 +62,4 @@ Information of all the data attributes with proper classification.
 
 **Note:** No personal identifiable information (PPI) can be found in the dataset.
 
-#Step 5: Data Modelling
-#Step 6: Experimentation
+
